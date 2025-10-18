@@ -35,6 +35,8 @@ Este proyecto sigue el patrón de arquitectura **MVVM (Model-View-ViewModel)** y
 | Dependencias | **ViewModel** | Mantiene la lógica del negocio y expone el estado de la UI |
 
 
+## 🏗️ Estructura del Proyecto
+
 com.leon.semanacrud_basico/
 ├── data/
 │ ├── dao/ # Interfaces de acceso a datos (InstructorDao)
@@ -82,5 +84,5 @@ Curso: Programación Móvil con Kotlin y Jetpack Compose
 Docente: Juan José León
 ---
 
-## 🏗️ Estructura del Proyecto
+
 
